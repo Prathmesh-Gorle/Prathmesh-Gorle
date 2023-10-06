@@ -24,7 +24,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Prathmesh Gorle from Amravati INDIA<br><br> <br>- 📚 A passionate Java Full Stack Developer from India<br>- ⚡ In my free time I enjoy playing Sudoku in my free time. </p>
+<p align="left">I'm Prathmesh Gorle from Amravati INDIA<br><br> <br>- 📚 A passionate Java Full Stack Developer from India<br>- ⚡ In my free time I enjoy playing Sudoku  .</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
